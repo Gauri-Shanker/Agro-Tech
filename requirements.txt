@@ -5,3 +5,10 @@ matplotlib
 streamlit
 jupyter
 plotly
+tensorflow
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+
